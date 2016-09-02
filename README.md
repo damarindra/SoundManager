@@ -6,6 +6,8 @@ Easy ways to manage your audio game on unity3D
 
 Import package, drag and drop SoundManager.prefab to your very first scene loaded. Open / Click SoundData.asset (found at SoundManager/Resources), and configure / drag and drop your audio asset to inspector.
 
+**Note : Add your scene to Build Settings, scene info on SoundData.asset is take from Build Settings**
+
 ## SoundManager
 
 1. Auto Change BG Music : auto change the background music when loaded new scene.
